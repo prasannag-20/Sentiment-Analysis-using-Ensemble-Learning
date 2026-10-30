@@ -1,0 +1,6 @@
+{
+  "name": "Sentiment Analysis Using Ensemble Learning",
+  "description": "ML-based IMDb movie review sentiment analysis system with Logistic Regression, Naive Bayes, Linear SVM, Random Forest, SGD Classifier, and Soft Voting Ensemble.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
